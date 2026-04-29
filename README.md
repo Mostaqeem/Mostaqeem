@@ -14,7 +14,7 @@ Document Management Systems | Enterprise Applications | Backend Systems | Automa
 
 ## 🧠 Experience
 
-🏢 **Software Engineering Internship — 9 Months**  
+🏢 **Software Engineering Internship**  
 - Worked on a production-level **Document Management System**  
 - Designed backend services using **microservices architecture**  
 - Built and consumed **REST APIs** for service communication  

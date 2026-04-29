@@ -38,7 +38,7 @@ Git | Docker | Linux | Cron Job | CI/CD Basics
 ---
 
 ## 🚀 Current Focus
-- Strengthening **Core Java** (OOP, Collections, Streams)  
+- Strengthening **Core Programming Knowledge** (OOP, Collections, Streams)  
 - Building backend systems with clean design and structured logic  
 - Improving problem-solving and data handling efficiency  
 
